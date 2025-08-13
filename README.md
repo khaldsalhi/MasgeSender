@@ -9,7 +9,10 @@ MasgeSender is a lightweight and easy-to-use tool for sending SMS messages to mu
 3- Easy setup and execution on Termux
 
 4- Simple and lightweight design
-
+# frist run your terminal list:
+ pip install colorama
+ pip install os 
+ pip install python 
 # How it works:
 
 1-Run sms2.py – it collects all your contacts from your phone and saves them in a TXT file.
